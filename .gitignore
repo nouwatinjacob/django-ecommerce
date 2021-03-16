@@ -1,0 +1,11 @@
+.vscode/
+.env
+ecommerce/accounts/__pycache__/
+ecommerce/accounts/migrations/__pycache__/
+ecommerce/__pycache__/
+__pycache__/
+*.pyc
+.DS_Store
+.coveragerc/
+htmlcov
+env/
